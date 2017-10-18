@@ -1,7 +1,7 @@
 import * as firebase from 'firebase';
 
 var config = {
-  apiKey: "AIzaSyDkN8nrYkFyhc9kaZmSGLENnFne33iuR3k",
+  apiKey: "",
   authDomain: "goalcoach-abccc.firebaseapp.com",
   databaseURL: "https://goalcoach-abccc.firebaseio.com",
   projectId: "goalcoach-abccc",
